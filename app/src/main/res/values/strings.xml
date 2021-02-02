@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="something_went_wrong">Something went wrong.</string>
+    <string name="navigation_current">Current</string>
+    <string name="navigation_date">Date</string>
+    <string name="navigation_7_daysReport">7 Days Report</string>
+    <string name="navigation_Settings">Settings</string>
+    <string name="current">Current</string>
+    <string name="date">Date</string>
+    <string name="report">7 Days Report</string>
+    <string name="settings">settings</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="City">
+        <item>Delhi</item>
+        <item>Mumbai</item>
+        <item>Noida</item>
+    </string-array>
+
+    <string-array name="TempUnits">
+        <item>" \u2103"</item>
+        <item>" \u2109"</item>
+    </string-array>
+</resources>
